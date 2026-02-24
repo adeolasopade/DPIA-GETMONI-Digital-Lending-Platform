@@ -1,10 +1,10 @@
 # DPIA: GETMONI Digital Lending Platform
 
-*This project draws on real work, with all company details anonymised.*
+*This project is inspired by real-world engagements; however, all documents have been independently recreated using synthetic data to reflect practical scenarios. No client materials are reproduced. All templates are either self-developed or properly licensed and are not proprietary to any organisation.*
 
 ---
 
-Our client, GETCO SOLUTIONS LIMITED, operates a digital lending and Buy-Now-Pay-Later platform (GETMONI) in Nigeria. They process highly sensitive personal data for credit assessment. Our objective was to conduct an NDP Act-compliant [DPIA](https://drive.google.com/drive/folders/1RlebL4Bcau7AColH-7owsdmEasmpkTLT?usp=sharing) to identify and mitigate privacy risks, protecting both users and the business from regulatory harm.
+Our client, GETCO SOLUTIONS LIMITED, operates a digital lending and Buy-Now-Pay-Later platform (GETMONI) in Nigeria. They process highly sensitive personal data for credit assessment. Our objective was to conduct an NDP Act-compliant Data Privacy Impact Assessment [DPIA](https://drive.google.com/drive/folders/1RlebL4Bcau7AColH-7owsdmEasmpkTLT?usp=sharing) to identify and mitigate privacy risks, protecting both users and the business from regulatory harm.
 
 ---
 
@@ -12,11 +12,11 @@ Our client, GETCO SOLUTIONS LIMITED, operates a digital lending and Buy-Now-Pay-
 
 We used a structured, collaborative method.
 
-*   We applied the official NDP Act GAID Schedule 4 DPIA [Checklist](https://docs.google.com/spreadsheets/d/1SldtEtiucIhGwASWEHbw95dlqmk6fkYd/edit?usp=drive_link&ouid=101134501969411208830&rtpof=true&sd=true), adapted to GETMONI's workflow, which the client populated.
+*   We applied the official NDP Act GAID Schedule 4 DPIA [Checklist](https://docs.google.com/spreadsheets/d/1Z6nXMJADr-juoTyEvpH1p7lMspRfvndw/edit?usp=sharing&ouid=101134501969411208830&rtpof=true&sd=true), adapted to GETMONI's workflow, which the client populated.
 
 *   We verified lawful bases and mapped data flows, then focused on high-risk areas like cross-border transfers and third-party vendors.
 
-*   We synthesised all findings, evidence, and recommendations into a final [report](https://docs.google.com/document/d/128d4XAZgszXGtOI3Pijr0JFf53Aft8DL/edit?usp=drive_link&ouid=101134501969411208830&rtpof=true&sd=true) for leadership, complete with risk ratings and a remediation plan.
+*   We synthesised all findings, evidence, and recommendations into a final [report](https://docs.google.com/document/d/1NQqWIFkBfuETh-j4LgVczCyuwsznNMKC/edit?usp=drive_link&ouid=101134501969411208830&rtpof=true&sd=true) for leadership, complete with risk ratings and a remediation plan.
 
 ---
 
