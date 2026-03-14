@@ -1,22 +1,22 @@
 # DPIA: GETMONI Digital Lending Platform
 
-*This project is inspired by real-world engagements; however, all documents have been independently recreated using synthetic data to reflect practical scenarios. No client materials are reproduced. All templates are either self-developed or properly licensed and are not proprietary to any organisation.*
+*This project reflects the type of work I lead and execute in real-world engagements. The documentation consolidates insights from that experience alongside my ongoing self-directed study. All materials use synthetic data—no client information is reproduced—and the templates are either self-developed or properly licensed and are not proprietary to any organisation.*
 
 ---
 
-Our client, GETCO SOLUTIONS LIMITED, operates a digital lending and Buy-Now-Pay-Later platform (GETMONI) in Nigeria. They process highly sensitive personal data for credit assessment. Our objective was to conduct an NDP Act-compliant Data Privacy Impact Assessment [DPIA](https://drive.google.com/drive/folders/1RlebL4Bcau7AColH-7owsdmEasmpkTLT?usp=sharing) to identify and mitigate privacy risks, protecting both users and the business from regulatory harm.
+GETCO Solutions Limited operates a digital lending and Buy-Now-Pay-Later platform (GETMONI) in Nigeria, processing highly sensitive personal data for credit assessment. Led and executed an NDP Act-compliant Data Privacy Impact Assessment [DPIA](https://drive.google.com/drive/folders/1RlebL4Bcau7AColH-7owsdmEasmpkTLT?usp=sharing) to identify and mitigate privacy risks, protecting both users and the business from regulatory harm.
 
 ---
 
 ## The Approach
 
-We used a structured, collaborative method.
+Applied a structured, collaborative methodology throughout.
 
-*   We applied the official NDP Act GAID Schedule 4 DPIA [Checklist](https://docs.google.com/spreadsheets/d/1Z6nXMJADr-juoTyEvpH1p7lMspRfvndw/edit?usp=sharing&ouid=101134501969411208830&rtpof=true&sd=true), adapted to GETMONI's workflow, which the client populated.
+*   Applied the official NDP Act GAID Schedule 4 DPIA [Checklist](https://docs.google.com/spreadsheets/d/1Z6nXMJADr-juoTyEvpH1p7lMspRfvndw/edit?usp=sharing&ouid=101134501969411208830&rtpof=true&sd=true), adapted to GETMONI's workflow, which the client populated.
 
-*   We verified lawful bases and mapped data flows, then focused on high-risk areas like cross-border transfers and third-party vendors.
+*   Verified lawful bases and mapped data flows, then focused on high-risk areas like cross-border transfers and third-party vendors.
 
-*   We synthesised all findings, evidence, and recommendations into a final [report](https://docs.google.com/document/d/1NQqWIFkBfuETh-j4LgVczCyuwsznNMKC/edit?usp=drive_link&ouid=101134501969411208830&rtpof=true&sd=true) for leadership, complete with risk ratings and a remediation plan.
+*   Synthesised all findings, evidence, and recommendations into a final [report](https://docs.google.com/document/d/1NQqWIFkBfuETh-j4LgVczCyuwsznNMKC/edit?usp=drive_link&ouid=101134501969411208830&rtpof=true&sd=true) for leadership, complete with risk ratings and a remediation plan.
 
 ---
 
